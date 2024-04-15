@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/71/0d/2e/710d2ecd348c3c7064a8380935cf3420.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .flexbox-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    font-size: 7vw;
+    color: cornsilk;
+  }
+  
+  .img {
+    max-width: 90%;
+    height: auto;
+    margin: 40px;
+    width: 900px;
+    padding: 5px;
+  }
+  
